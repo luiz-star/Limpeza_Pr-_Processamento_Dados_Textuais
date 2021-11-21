@@ -9,6 +9,9 @@
 NeatText é um pacote simples de processamento de linguagem natural para limpar dados de texto e pré-processar dados de texto
 
 
+
+![NeatText](https://user-images.githubusercontent.com/72530507/142779989-845ba8d4-745f-4dcf-beaf-e73a4121b336.jpg)
+
 NeatText é um pacote simples de processamento de linguagem natural para limpar dados de texto e pré-processar dados de texto. Ele pode ser usado para limpar frases, extrair e-mails, números de telefone, links da web e emojis de frases. Também pode ser usado para configurar pipelines de pré-processamento de texto.
 
 Veremos a funcionalidade de diferentes objetos desta biblioteca em uma frase.
